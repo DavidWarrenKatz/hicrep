@@ -1,7 +1,7 @@
 #' HiCRep pipeline calculates reproducibility of Hi-C intrachromosome data
 #'
 #' The pipelne is a two-step method. The first step is to smooth the Hi-C 
-#' matrix, and the #' second step is to calculate the stratum-adjusted 
+#' matrix, and the second step is to calculate the stratum-adjusted 
 #' correlation coefficient (scc). The method also provides the estimation
 #' of asymptotic standard deviation of scc.
 #'
